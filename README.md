@@ -41,16 +41,14 @@ Conclusion:
 The Election Visualization Tool combines intuitive design with powerful data visualization techniques, empowering users to explore and understand complex election data effortlessly. By facilitating interactive exploration and analysis, it serves as a valuable resource for researchers, analysts, and anyone interested in comprehending electoral dynamics in India.
 
 App Screens:
-1.
+
+
 ![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/a4d93f07-8826-4a03-892f-a78b941f1df0)
 
 
-2.
 ![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/d392dd5a-4d4e-4e81-81ab-b08bea480045)
 
 
-3.
 ![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/a5349552-46b4-4ba1-b149-47b9e47f75a0)
 
-4.
 ![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/7199949e-8717-45a5-8a56-dbd6bb3b274f)
