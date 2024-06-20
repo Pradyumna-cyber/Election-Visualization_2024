@@ -45,10 +45,8 @@ App Screens:
 
 ![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/a4d93f07-8826-4a03-892f-a78b941f1df0)
 
+<img width="1440" alt="image" src="https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/065fd7d4-1717-4daf-b579-0a0ed8941860">
 
-![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/d392dd5a-4d4e-4e81-81ab-b08bea480045)
+<img width="1440" alt="image" src="https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/aa21789c-63e9-4859-ab4e-58e40d1924ae">
 
 
-![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/a5349552-46b4-4ba1-b149-47b9e47f75a0)
-
-![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/7199949e-8717-45a5-8a56-dbd6bb3b274f)
