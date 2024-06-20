@@ -43,9 +43,14 @@ The Election Visualization Tool combines intuitive design with powerful data vis
 App Screens:
 
 
-![image](https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/a4d93f07-8826-4a03-892f-a78b941f1df0)
+<img width="1440" alt="image" src="https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/b769f023-7b88-4415-8ca1-d022f08c12ee">
+
+
+
 
 <img width="1440" alt="image" src="https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/065fd7d4-1717-4daf-b579-0a0ed8941860">
+
+
 
 <img width="1440" alt="image" src="https://github.com/Pradyumna-cyber/Election-Visualization_23/assets/73057121/aa21789c-63e9-4859-ab4e-58e40d1924ae">
 
